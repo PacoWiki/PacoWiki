@@ -1,0 +1,317 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pacowiki\n"
+"POT-Creation-Date: 2015-06-06 17:12+0330\n"
+"PO-Revision-Date: 2015-06-06 23:40+0330\n"
+"Last-Translator: \n"
+"Language-Team: TowhidN.com\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\\\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/pacowiki-install.php:74
+msgid "Wiki Editor"
+msgstr "ویرایشگر"
+
+#: includes/pacowiki-install.php:89
+msgid "Wiki Author"
+msgstr "نویسنده ویکی"
+
+#: includes/pacowiki-install.php:104
+msgid "Wiki Contributor"
+msgstr "مشارکت کننده ویکی"
+
+#: includes/pacowiki-post-type.php:18
+msgid "Wiki Pages"
+msgstr "صفحات ویکی"
+
+#: includes/pacowiki-post-type.php:19 includes/pacowiki-post-type.php:43
+msgid "Wiki Page"
+msgstr "صفحه ویکی"
+
+#: includes/pacowiki-post-type.php:20
+msgid "Add Wiki"
+msgstr "اضافه کردن ویکی"
+
+#: includes/pacowiki-post-type.php:21
+msgid "Add New Wiki"
+msgstr "اضافه کردن ویکی جدید"
+
+#: includes/pacowiki-post-type.php:22
+msgid "Edit Wiki Page"
+msgstr "ویرایش صفحه ویکی"
+
+#: includes/pacowiki-post-type.php:23
+msgid "New Wiki"
+msgstr "ویکی جدید"
+
+#: includes/pacowiki-post-type.php:24
+msgid "View Wiki"
+msgstr "مشاهده ویکی"
+
+#: includes/pacowiki-post-type.php:25
+msgid "Search Wikis content"
+msgstr "جست و جوی محتوای ویکی"
+
+#: includes/pacowiki-post-type.php:26
+msgid "No related Wikis were found"
+msgstr "ویکی مربوطی یافت نشد"
+
+#: includes/pacowiki-post-type.php:27
+msgid "No related Wikis were found in Trash"
+msgstr "ویکی مرتبطی در سطل آشغال یافت نشد"
+
+#: includes/pacowiki-post-type.php:28
+msgid "Wikis"
+msgstr "ویکی"
+
+#: includes/pacowiki-post-type.php:45
+msgid "WIKI Page."
+msgstr "صفحه ویکی."
+
+#: includes/pacowiki-post-type.php:80
+msgid "Wiki Categories"
+msgstr "دسته های ویکی"
+
+#: includes/pacowiki-post-type.php:81
+msgid "Wiki Category"
+msgstr "دسته ویکی"
+
+#: includes/pacowiki-post-type.php:82
+msgid "Search Wiki Categories"
+msgstr "جست و جوی دسته های ویکی"
+
+#: includes/pacowiki-post-type.php:83
+msgid "All Categories"
+msgstr "تمام دسته ها"
+
+#: includes/pacowiki-post-type.php:84
+msgid "Parent Category"
+msgstr "دسته والد"
+
+#: includes/pacowiki-post-type.php:85
+msgid "Parent Category:"
+msgstr "دسته والد:"
+
+#: includes/pacowiki-post-type.php:86
+msgid "Edit Wiki Category"
+msgstr "ویرایش دسته ویکی"
+
+#: includes/pacowiki-post-type.php:87
+msgid "Update Wiki Category"
+msgstr "بروزرسانی دسته ویکی"
+
+#: includes/pacowiki-post-type.php:88
+msgid "Add New Wiki Category"
+msgstr "اضافه کردن دسته ویکی"
+
+#: includes/pacowiki-post-type.php:89
+msgid "New Wiki Category Name"
+msgstr "اضافه کردن نام دسته ویکی"
+
+#: includes/pacowiki-post-type.php:106
+msgid "Wiki Tags"
+msgstr "برچسب های ویکی"
+
+#: includes/pacowiki-post-type.php:107
+msgid "Wiki Tag"
+msgstr "برچسب ویکی"
+
+#: includes/pacowiki-post-type.php:108
+msgid "Search Wiki Tags"
+msgstr "جست و جوی برچسب های ویکی"
+
+#: includes/pacowiki-post-type.php:109
+msgid "Popular Wiki Tags"
+msgstr "برچسب های محبوب ویکی"
+
+#: includes/pacowiki-post-type.php:110
+msgid "All Wiki Tags"
+msgstr "تمام برچسب های ویکی"
+
+#: includes/pacowiki-post-type.php:111
+msgid "Edit Wiki Tag"
+msgstr "ویرایش برچسب های ویکی"
+
+#: includes/pacowiki-post-type.php:112
+msgid "Update Wiki Tag"
+msgstr "بروزرسانی برچسب ویکی"
+
+#: includes/pacowiki-post-type.php:113
+msgid "Add New Wiki Tag"
+msgstr "اضافه کردن برچسب جدید برای ویکی"
+
+#: includes/pacowiki-post-type.php:114
+msgid "New Wiki Tag Name"
+msgstr "نام جدید برچسب ویکی"
+
+#: includes/pacowiki-post-type.php:115
+msgid "Separate wiki tags with commas"
+msgstr "برچسب های ویکی را با کاما جدا کنید"
+
+#: includes/pacowiki-post-type.php:116
+msgid "Add or remove wiki tags"
+msgstr "اضافه یا حذف برچسب ها"
+
+#: includes/pacowiki-post-type.php:117
+msgid "Choose from the most used wiki tags"
+msgstr "انتخاب از بین پر استفاده شده ترین برچسب ها"
+
+#: pacowiki.php:53
+msgid "Do not clone WIKI class!"
+msgstr "این کلاس رو کلون نکنید!"
+
+#: pacowiki.php:140
+msgid "Wiki Options"
+msgstr "تنظیمات ویکی"
+
+#: pacowiki.php:140
+msgid "Options"
+msgstr "تنظیمات"
+
+#: pacowiki.php:252
+msgid "Revisions"
+msgstr "رونوشت ها"
+
+#: pacowiki.php:416
+msgid "Article"
+msgstr "مقاله"
+
+#: pacowiki.php:420
+msgid "Discussion"
+msgstr "بحث"
+
+#: pacowiki.php:424
+msgid "History"
+msgstr "تاریخچه"
+
+#: pacowiki.php:427
+msgid "Edit"
+msgstr "ویرایش"
+
+#: pacowiki.php:430
+msgid "Add sub wiki"
+msgstr "اضافه کردن زیر ویکی"
+
+#: templates/default/single-pacowiki-discussion.php:58
+msgid "Join the conversation"
+msgstr "به گفت و گو بپیوندید"
+
+#: templates/default/single-pacowiki-discussion.php:58
+msgid "Be the first to start a discussion on "
+msgstr "اولین کسی باشید که بحث را شروع میکنید!"
+
+#: templates/default/single-pacowiki-discussion.php:59
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "پاسخ به %s"
+
+#: templates/default/single-pacowiki-discussion.php:63
+msgid "Name"
+msgstr "نام"
+
+#: templates/default/single-pacowiki-discussion.php:65
+msgid "Email"
+msgstr "ایمیل"
+
+#: templates/default/single-pacowiki-discussion.php:68
+msgid "Submit"
+msgstr "ارسال"
+
+#: templates/default/single-pacowiki-discussion.php:73
+msgid "Your Comment"
+msgstr "نظر شما"
+
+#: templates/default/single-pacowiki-edit.php:43
+msgid "Save Post"
+msgstr "ذخیره نوشته"
+
+#: templates/default/single-pacowiki-history.php:27
+msgid "(no title)"
+msgstr "(بدون عنوان)"
+
+#: templates/default/single-pacowiki-history.php:29
+#, php-format
+msgid "Compare Revisions of &#8220;%1$s&#8221;"
+msgstr "مقایسه رونوشت از &#8220;%1$s&#8221;"
+
+#: templates/default/single-pacowiki-history.php:59
+msgid "No changes were found in post content of this revision!"
+msgstr "هیچ تغییری در محتوای پست از این نسخه پیدا شد!"
+
+#: templates/default/single-pacowiki-history.php:88
+msgid "No changes were found in wiki Title!"
+msgstr "هیچ تغییری در عنوان ویکی پیدا شد!"
+
+#: templates/default/single-pacowiki-history.php:98
+msgid "No changes were found in wiki content!"
+msgstr "هیچ تغییری در محتوای ویکی پیدا شد!"
+
+#: templates/default/single-pacowiki-history.php:120
+#: templates/default/single-pacowiki.php:35
+msgid "Contents"
+msgstr "محتوا"
+
+#: templates/default/single-pacowiki-history.php:121
+#: templates/default/single-pacowiki.php:36
+msgid "Show"
+msgstr "نمایش"
+
+#: templates/default/single-pacowiki-history.php:121
+#: templates/default/single-pacowiki.php:36
+msgid "Hide"
+msgstr "مخفی"
+
+#: templates/default/single-pacowiki-history.php:139
+msgid "Old"
+msgstr "قدیمی"
+
+#: templates/default/single-pacowiki-history.php:140
+msgid "New"
+msgstr "جدید"
+
+#: templates/default/single-pacowiki-history.php:141
+msgid "Title"
+msgstr "عنوان"
+
+#: templates/default/single-pacowiki-history.php:142
+msgid "Author"
+msgstr "نویسنده"
+
+#: templates/default/single-pacowiki-history.php:143
+msgid "Date"
+msgstr "تاریخ"
+
+#: templates/default/single-pacowiki-history.php:144
+msgid "Action"
+msgstr "اعمال"
+
+#: templates/default/single-pacowiki-history.php:165
+msgid "View this revisions"
+msgstr "مشاهده این رونوشت"
+
+#: templates/default/single-pacowiki-history.php:174
+msgid "ago"
+msgstr "پیش"
+
+#: templates/default/single-pacowiki-history.php:174
+msgid "Compare with current version"
+msgstr "مقایسه با نسخه جاری"
+
+#: templates/default/single-pacowiki-history.php:175
+msgid "Restore"
+msgstr "بازیابی"
+
+#: templates/default/single-pacowiki-history.php:181
+msgid "Compare Revisions"
+msgstr "مقایسه رونوشت"
+
+#: templates/default/single-pacowiki-history.php:186
+msgid "No revisions were found for this post!"
+msgstr "هیچ رونوشتی برای این نوشته یافت نشد!"

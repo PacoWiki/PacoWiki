@@ -1,0 +1,139 @@
+.wiki-nav {
+    display: inline-block;
+    width: 100%;
+}
+.wiki-item {
+    display: inline-block;
+    float: left;
+    list-style: none outside none;
+    padding: 5px;
+}
+.edit-item , .subwiki-item {
+    float: right;
+}
+.xwiki-edit-title {
+    margin: 0 0 10px;
+    width: 100%;
+}
+.wiki-content h1, .wiki-content h2, .wiki-content h3, .wiki-content h4, .wiki-content h5, .wiki-content h6 {
+    border-bottom: 1px solid #aaa;
+    margin: 0 0 10px;
+    padding: 20px 0 5px;
+}
+.wiki-table-of-contents {
+    background-color: #f3f3f3;
+    border: 1px solid #aaa;
+    float: right;
+    min-width: 25%;
+}
+
+.wiki-table-of-contents-header {
+    border-bottom: 1px solid #aaa;
+    display: inherit;
+    margin-bottom: -1px;
+    padding: 5px;
+}
+.wiki-table-of-contents-list, .wiki-table-of-contents-list ol {
+    list-style: decimal inside none;
+    padding: 5px 0 5px 5px;
+}
+.wiki-toggle-table-of-contents > a:before {
+    content: "[";
+}
+
+.wiki-toggle-table-of-contents > a:after {
+    content: "]";
+}
+.wiki-table-of-contents-list ol {
+    margin-left: 10px;
+}
+.xwiki-revision-table .avatar {
+	margin-right: 5px;
+    vertical-align: top;
+}
+
+
+.Differences {
+	width: 100%;
+	border-collapse: collapse;
+	border-spacing: 0;
+	empty-cells: show;
+	border: 1px solid #888 !important;
+}
+
+.Differences thead th {
+	background: none repeat scroll 0 0 #eeeeee;
+    border-bottom: 1px solid #888;
+    color: #000;
+    padding: 4px;
+    text-align: left;
+}
+.Differences tbody th {
+	background: none repeat scroll 0 0 #eeeeee;
+    border-right: 1px solid #888;
+    font-size: 13px;
+    padding: 1px 2px;
+    text-align: center;
+    vertical-align: top;
+    width: 3em;
+}
+
+.Differences td {
+	padding: 1px 2px;
+	font-family: Consolas, monospace;
+	font-size: 13px;
+}
+
+.DifferencesSideBySide .ChangeInsert td.Left {
+	background: #dfd;
+}
+
+.DifferencesSideBySide .ChangeInsert td.Right {
+	background: #cfc;
+}
+
+.DifferencesSideBySide .ChangeDelete td.Left {
+	background: #f88;
+}
+
+.DifferencesSideBySide .ChangeDelete td.Right {
+	background: #faa;
+}
+
+.DifferencesSideBySide .ChangeReplace .Left {
+	background: #fe9;
+}
+
+.DifferencesSideBySide .ChangeReplace .Right {
+	background: #fd8;
+}
+
+.Differences ins, .Differences del {
+	text-decoration: none;
+}
+
+.DifferencesSideBySide .ChangeReplace ins, .DifferencesSideBySide .ChangeReplace del {
+	background: #fc0;
+}
+
+.Differences .Skipped {
+	background: #f7f7f7;
+}
+
+.DifferencesInline .ChangeReplace .Left,
+.DifferencesInline .ChangeDelete .Left {
+	background: #fdd;
+}
+
+.DifferencesInline .ChangeReplace .Right,
+.DifferencesInline .ChangeInsert .Right {
+	background: #dfd;
+}
+
+.DifferencesInline .ChangeReplace ins {
+	background: #9e9;
+}
+
+.DifferencesInline .ChangeReplace del {
+	background: #e99;
+}
